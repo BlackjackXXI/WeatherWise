@@ -26,7 +26,7 @@ WeatherWise is a weather web application that provides users with current weathe
 ## Preview
 <div style="display:flex">
      <div style="flex:1;padding-left:10px;">
-          <img src="https://user-images.githubusercontent.com/99515673/225871316-8aa48ae7-b092-458c-ba8f-f4be2af1da59.png" width="800"/>
+          <img src="https://raw.githubusercontent.com/BlackjackXXI/WeatherWise/master/images/clouds-2329680.jpg" width="800"/>
      </div>
 </div>
 

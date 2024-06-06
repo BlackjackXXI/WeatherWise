@@ -1,5 +1,6 @@
 # WeatherWise
 
+https://weatherwise-jade.vercel.app/
 WeatherWise is a weather web application that provides users with current weather information and forecasts for their location and other selected locations. It aims to offer a seamless and intuitive experience for users to stay informed about weather conditions wherever they are.
 
 ## Features
